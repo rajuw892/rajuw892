@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Raju Raman
+<p align="center">Hi there 👋, I'm Raju Raman</p>
 
 
 <table align="center">
