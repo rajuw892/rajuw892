@@ -14,6 +14,13 @@
 </tr>
 </table>
 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
+[<img height="30" src="https://img.shields.io/badge/stack%20overflow-C13584.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][StackOverflow]
+[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][Dev]
+
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | Link
 -----|-------------|--------|------
@@ -40,3 +47,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/rajuw892/
+[twitter]: https://twitter.com/rajuraman45
+[gmail]: https://gmail.com/rajuraman45
+[Medium]: https://ankush-chavan.medium.com/
+[StackOverflow]: https://stackoverflow.com/users/14997048/ankush-chavan?tab=profile
+[Dev]: https://dev.to/rajuraman45
+[Hashnode]: https://ankushchavan.hashnode.dev/
