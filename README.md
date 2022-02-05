@@ -5,7 +5,7 @@
  
 <table>
 <tr>
-  <td valign="center">
+  <td valign="center width-100">
     🎓 I am currently working at RightMove Technology.<br/>
     🌱 I am currently learning Mern Stack Development. <br/>
     🎯 My Goal is to Contribute in **open source** more this year.<br/>
