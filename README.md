@@ -8,7 +8,7 @@
     🎯 Goals 2022: Contribute More to Open Sources. <br/>
     ✨ I love to create different types of Websites.
   <td>
-    <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=rn9" width="400" alt="Raju Raman's Dev Card"/></a>
+    <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=rn9" width="300" alt="Raju Raman's Dev Card"/></a>
   </td>
 
 </tr>
