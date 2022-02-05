@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Raju Raman
 
-# replace contents according to you.
 <table>
 <tr>
   <td valign="center">
@@ -9,8 +8,7 @@
     🎯 Goals 2022: Contribute More to Open Sources
     ✨ I love to create different types of **contents**.
 <td >
-# this is my daily.dev card, you can edit this accordingly
-  <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=9gx" width="400" alt="Raju Raman's Dev Card"/></a>
+   <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=9gx" width="400" alt="Raju Raman's Dev Card"/></a>
   </td>
 
 </tr>
