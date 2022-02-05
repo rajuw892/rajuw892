@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Raju Raman
 
+ 
 <table>
 <tr>
-  <td valign="center">
+  <td>
     -🎓 I am currently working in RightMove Technology**.
     -🌱 I am currently learning MERN STACK And focusing on Frontend Development**.
     -🎯 Goals 2022: Contribute More to Open Sources.
