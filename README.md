@@ -20,11 +20,8 @@ Name | Description | Status | Link
 Portfolio | Perosnal Portfolio Website | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://rajuramanme.netlify.app/)
 Linkedin Clone | This is the clone of Linkedin Ui | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://linkedinclone-2b02a.web.app/)
 Netflix Clone | This is the clone of Netlifx Ui | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://netflixclone-edd85.web.app/)
-The CocktailDB | Here you can find your Favourite Cocktail details | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
-WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
-AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
-AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/AWS-TUI)
-
+The CocktailDB | Here you can find your Favourite Cocktail details | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://cocktaildbrr.netlify.app/)
+ 
 <br />
 
 
