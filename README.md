@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raju Raman
 
-<table>
+<table align="center">
 <tr>
   <td valign="center">
     🎓 I am currently working in RightMove Technology.                 <br/>
