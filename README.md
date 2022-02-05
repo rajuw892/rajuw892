@@ -2,19 +2,22 @@
 <p align="center">Hi there 👋, I'm Raju Raman</p>
 
 
-<table align="center">
+ # replace contents according to you.
+<table>
 <tr>
   <td valign="center">
-    🎓 I am currently working in RightMove Technology. <br/>
-    🌱 I am currently learning MERN STACK.<br/>
-    🎯 Goals 2022: Contribute More to Open Sources.<br/>
-    ✨ I love to create different types of Websites.
-  <td>
-    <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=rn9" width="300" alt="Raju Raman's Dev Card"/></a>
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering.<br/>
+    🌱 I am currently learning . <br/>
+    🎯 My Goal is to Contribute to as many **open source project** as possible.<br/>
+    ✨ I love to create different types of **contents**.<br/>
+<td >
+ 
+     <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=1tj" width="300" alt="Raju Raman's Dev Card"/></a>
   </td>
 
 </tr>
 </table>
+
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
