@@ -1,4 +1,6 @@
+<align="center">
 ### Hi there 👋, I'm Raju Raman
+</>
 
 <table align="center">
 <tr>
