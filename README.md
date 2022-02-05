@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/rajuw892/
 [twitter]: https://twitter.com/rajuraman45
-[gmail]: https://gmail.com/rajuraman45
+[gmail]: rajuraman45@gmail.com
 [Medium]: https://ankush-chavan.medium.com/
 [StackOverflow]: https://stackoverflow.com/users/14997048/ankush-chavan?tab=profile
 [Dev]: https://dev.to/rajuraman45
