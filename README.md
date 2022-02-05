@@ -14,6 +14,19 @@
 </tr>
 </table>
 
+### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+Name | Description | Status | Link
+-----|-------------|--------|------
+Portfolio | Perosnal Portfolio Website | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://rajuramanme.netlify.app/)
+Tinder Clone | This is the clone of Tinder | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/TinderClone)
+WhatsApp Clone | This is the clone of WhatsApp Web | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WhatsApp-clone)
+Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
+WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
+AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
+AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/AWS-TUI)
+
+<br />
+
 
 <!--
 **rajuw892/rajuw892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
