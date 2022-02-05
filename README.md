@@ -1,8 +1,8 @@
 
-<p align="center">Hi there 👋, I'm Raju Raman</p>
+### Hi there 👋, I'm Raju Raman
 
 
- # replace contents according to you.
+ 
 <table>
 <tr>
   <td valign="center">
