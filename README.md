@@ -3,8 +3,8 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently working in RightMove Technology. <br/>
-    🌱 I am currently learning MERN STACK. <br/>
+    🎓 I am currently working in RightMove Technology.                 <br/>
+    🌱 I am currently learning MERN STACK.                             <br/>
     🎯 Goals 2022: Contribute More to Open Sources. <br/>
     ✨ I love to create different types of Websites.
   <td>
