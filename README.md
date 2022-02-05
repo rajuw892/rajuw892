@@ -11,7 +11,7 @@
     🎯 My Goal is to Contribute in **open source** more this year.<br/>
     ✨ I love to learning new things.<br/>
 <td>
-     <a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=1tj" width="300" alt="Raju Raman's Dev Card"/></a>
+     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.daily.dev/rajuraman45"><img src="https://api.daily.dev/devcards/a58efc16599946f791b1afc3ad09a11a.png?r=1tj" width="300" alt="Raju Raman's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </td>
 
 </tr>
