@@ -63,8 +63,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/rajuw892/
 [twitter]: https://twitter.com/rajuraman45
-[gmail]: www.gmail.com
-[Medium]: https://ankush-chavan.medium.com/
+[gmail]: www.gmail.com 
 [StackOverflow]: https://stackoverflow.com/
 [Dev]: https://app.daily.dev/rajuraman45
-[Hashnode]: https://ankushchavan.hashnode.dev/
+ 
