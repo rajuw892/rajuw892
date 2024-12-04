@@ -7,7 +7,7 @@
 <tr>
   <td valign="center width-100">
     🎓 I am currently working at TriventCad Pvt Ltd.<br/>
-    🌱 I am currently learning Mern Stack Development. <br/>
+    🌱 I am currently working in Mern Stack Development. <br/>
     🎯 My Goal is to Contribute in open source more this year.<br/>
     ✨ I love to learning new things.<br/>
 <td>
